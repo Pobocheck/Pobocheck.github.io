@@ -7,6 +7,6 @@ h1 {
         position: relative;
         height: 300px;
         width: 300px;
-        margin-left: 0auto;
-        margin-right: 0auto;
+        margin-left: 0 auto;
+        margin-right: 0 auto; 
     }
