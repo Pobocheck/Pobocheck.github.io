@@ -4,6 +4,7 @@ h1 {
 }
      
     .Titlepic {
+        position: relative;
         height: 300px;
         width: 300px;
         margin-left: auto;
