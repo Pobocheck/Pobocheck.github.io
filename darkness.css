@@ -12,8 +12,7 @@ p.tablepictures {
     display: block;
     height: 300px;
     width: 300px;
-    text-align: center;
-        
+    margin: 0 auto;       
 }
 
 .navbar {
