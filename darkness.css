@@ -22,7 +22,7 @@ table {
     margin-bottom: 100px;
 }
 
-table .tablepicture {
+.tablepicture table {
     width: 33%;
     height: auto; 
     margin: 0 auto;
