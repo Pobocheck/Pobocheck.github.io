@@ -2,6 +2,7 @@ h1 {
     color: maroon;
     text-align: center;
     font-family: monospace;
+    font-size: 125px;
 }
    
 table {
@@ -24,8 +25,7 @@ table {
 tablepicture {
     display: block;
     width: 75%;
-    height: auto
-    
+    height: auto;  
 }
 
 .container {
