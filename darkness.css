@@ -3,12 +3,13 @@ h1 {
     text-align: center;
 }
      
-.Titlepic {
+p.Titlepic {
     position: relative;
     height: 300px;
     width: 300px;
-    display: grid;
-    grid-template-columns: 50% 50%;
+    margin: 0 auto;
+    
+    
     
 }
 .navbar {
