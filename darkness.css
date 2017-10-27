@@ -2,14 +2,18 @@ h1 {
     color: maroon;
     text-align: center;
 }
-     
+   
+table {
+    border-spacing: 25px;
+}
+
 p.tablepictures {
     height: 300px;
     width: 300px;
     margin: 0 auto;
-    text-align: center;  
-    
+    text-align: center;    
 }
+
 .navbar {
     text-align: center;
 } 
