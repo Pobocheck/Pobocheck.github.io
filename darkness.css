@@ -5,14 +5,14 @@ h1 {
    
 table {
     border-spacing: 25px;
-    margin: 0 auto;
+    
 }
 
 p.tablepictures {
     height: 300px;
     width: 300px;
-    margin: auto
-    text-align: center;    
+    text-align: center;
+        
 }
 
 .navbar {
@@ -23,7 +23,6 @@ p.tablepictures {
     height: 300px;
     width: 300px;
     margin: 0 auto;
-    text-align: center;
 }
 
 .container {
