@@ -22,10 +22,11 @@ table {
     margin-bottom: 100px;
 }
 
-.tablepicture {
+table.tablepicture {
     display: block;
     width: 75%;
-    height: auto;  
+    height: auto; 
+    margin: 0 auto;
 }
 
 .container {
