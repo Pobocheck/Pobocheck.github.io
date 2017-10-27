@@ -5,7 +5,11 @@ h1 {
    
 table {
     border-spacing: 25px;
-    margin: 0 auto;           
+    margin: 0 auto;
+    height: auto;
+    width: auto;
+    max-height: 300px;
+    max-width: 300px;
 }
 
 .navbar {
@@ -14,13 +18,18 @@ table {
     
 .titlepicture {
     display: block;
-    height: 300px;
+    height: 475px;
     width: 475px;
     margin: 0 auto;
     margin-bottom: 100px;
 }
 
 tablepicture {
+    display: block;
+    height: auto;
+    width: auto;
+    max-height: 350;
+    max-width: 350;
     
 }
 
