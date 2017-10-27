@@ -5,25 +5,23 @@ h1 {
    
 table {
     border-spacing: 25px;
-    margin: 0 auto;    
-}
-
-p.tablepictures {
-    display: block;
-    height: 300px;
-    width: 300px;
-    margin: 0 auto;       
+    margin: 0 auto;           
 }
 
 .navbar {
     text-align: center;
 } 
     
-.tablepictures {
+.titlepicture {
     display: block;
     height: 300px;
-    width: 300px;
+    width: 475px;
     margin: 0 auto;
+    margin-bottom: 100px;
+}
+
+tablepicture {
+    
 }
 
 .container {
