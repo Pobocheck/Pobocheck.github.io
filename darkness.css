@@ -5,12 +5,13 @@ h1 {
    
 table {
     border-spacing: 25px;
+    margin: 0 auto;
 }
 
 p.tablepictures {
     height: 300px;
     width: 300px;
-    margin: 0 auto;
+    margin: auto
     text-align: center;    
 }
 
