@@ -1,15 +1,12 @@
 h1 {
     color: maroon;
     text-align: center;
+    font-family: monospace;
 }
    
 table {
     border-spacing: 25px;
     margin: 0 auto;
-    height: auto;
-    width: auto;
-    max-height: 300px;
-    max-width: 300px;
 }
 
 .navbar {
@@ -19,17 +16,15 @@ table {
 .titlepicture {
     display: block;
     height: 475px;
-    width: 475px;
+    width: 700px;
     margin: 0 auto;
     margin-bottom: 100px;
 }
 
 tablepicture {
     display: block;
-    height: auto;
-    width: auto;
-    max-height: 350;
-    max-width: 350;
+    width: 75%;
+    height: auto
     
 }
 
