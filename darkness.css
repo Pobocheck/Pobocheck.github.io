@@ -7,10 +7,19 @@ h1 {
     position: relative;
     height: 300px;
     width: 300px;
-    margin-left: 0 auto;
-    margin-right: 0 auto; 
+    display: grid;
+    grid-template-columns: 50% 50%;
+    
 }
 .navbar {
     text-align: center;
 } 
     
+.bandPhotos {
+    display: grid;
+    height: 300px;
+    width: 300px;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 50% 50%;
+    grid-gap: 20px 20px;
+}
