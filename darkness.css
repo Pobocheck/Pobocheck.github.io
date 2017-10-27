@@ -8,6 +8,7 @@ p.Titlepic {
     height: 300px;
     width: 300px;
     margin: 0 auto;
+    text-align: center;
     
     
     
@@ -16,6 +17,13 @@ p.Titlepic {
     text-align: center;
 } 
     
+.tablepictures {
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
 .container {
     display: grid;
     height: 300px;
