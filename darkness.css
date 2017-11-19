@@ -2,14 +2,13 @@ h1 {
     color: maroon;
     text-align: center;
     font-family: monospace;
-    font-size: 125;
 }
 
 h2 {
     text-align: center;
 }
 
-.navbar ul {
+.container {
     display: flex;
     font-size: 1.5rem;
     color: blue;
