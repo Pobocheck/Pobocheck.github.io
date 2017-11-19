@@ -17,6 +17,7 @@ h2 {
 }
 
 .pic-container {
+    display: block;
     margin: 0 auto;
 }
 
@@ -33,7 +34,8 @@ h2 {
 }
     
 .titlepicture {
-    text-align: center;
+    display: block;
+    margin: auto;
     height: 300px;
     width: 300px;
 }
