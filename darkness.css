@@ -52,8 +52,11 @@ h4 {
 }
 
 p {
-    display: flex;
-    justify-content: center;
+    text-align: center;
     font-size: 1.4rem;
     width: 425px;
+}
+
+.button {
+    color: green;
 }
