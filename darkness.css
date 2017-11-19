@@ -1,3 +1,7 @@
+body {
+    
+}
+
 h1 {
     color: maroon;
     text-align: center;
@@ -10,19 +14,27 @@ h2 {
 
 .container {
     display: flex;
+} 
+
+.container li {
     font-size: 1.5rem;
     color: blue;
+    background color: aqua;
     justify-content: space-between;
-} 
+}
     
 .titlepicture {
-   
+    margin: 0 auto;  
 }
 
 h3 {
-    
+    text-align: center;
 }
 
 h4 {
-    
+    text-align: center;
+}
+
+p {
+    text-align: center;
 }
