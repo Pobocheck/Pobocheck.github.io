@@ -16,6 +16,10 @@ h2 {
     text-align: center;
 }
 
+.pic-container {
+    margin: 0 auto;
+}
+
 .container {
     display: flex;
     justify-content: center;
