@@ -5,7 +5,11 @@ h1 {
     font-size: 125;
 }
 
-.navbar {
+h2 {
+    text-align: center;
+}
+
+.navbar li {
     display: flex;
 } 
     
@@ -14,6 +18,12 @@ h1 {
     height: 475px;
     width: 700px;
     margin: 0 auto;
-    margin-bottom: 100px;
 }
 
+h3 {
+    
+}
+
+h4 {
+    
+}
