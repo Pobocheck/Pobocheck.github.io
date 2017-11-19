@@ -2,17 +2,11 @@ h1 {
     color: maroon;
     text-align: center;
     font-family: monospace;
-    font-size: 125px;
-}
-   
-table {
-    display: inline-block;
-    border-spacing: 25px;
-    margin: 0 auto;
+    font-size: 125;
 }
 
 .navbar {
-    text-align: center;
+    display: flex;
 } 
     
 .titlepicture {
@@ -23,17 +17,3 @@ table {
     margin-bottom: 100px;
 }
 
-.tablepicture table {
-    width: 33%;
-    height: auto; 
-    margin: 0 auto;
-}
-
-.container {
-    display: grid;
-    height: 300px;
-    width: 300px;
-    grid-template-columns: 50% 50%;
-    grid-template-rows: 50% 50%;
-    grid-gap: 20px 20px;
-}
