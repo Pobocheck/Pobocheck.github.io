@@ -9,12 +9,11 @@ h2 {
     text-align: center;
 }
 
-.navbar li {
+.navbar ul {
     display: flex;
 } 
     
 .titlepicture {
-    display: block;
     height: 475px;
     width: 700px;
     margin: 0 auto;
