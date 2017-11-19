@@ -26,6 +26,7 @@ h2 {
 
 .container li {
     background-color: black;
+    border-radius: 50%;
     font-size: 1.5rem;
     color: blue;
     margin-right: 10px;
@@ -54,6 +55,6 @@ h4 {
 
 p {
     font-size: 1.4rem;
+    width: 335px;
     text-align: center;
-    margin: 3rem 3 rem;
 }
